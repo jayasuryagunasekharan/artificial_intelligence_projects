@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Expense-8-Puzzle
 
 Name  : Jayasurya Gunasekharan
@@ -31,3 +32,6 @@ Run the expense_8_puzzle.py start.txt goal.txt <method> <dump-flag> in the termi
 I have worked out all the steps in PyCharm.
 
 NOTE: Please use my start.txt goal.txt files. Thank you!
+=======
+# Red_Blue_Nim_Game
+>>>>>>> 357aba9 (Initial commit)

@@ -1,7 +1,6 @@
 # Expense-8-Puzzle
 
 Name  : Jayasurya Gunasekharan
-UTA ID: 1002060437
 
 PROGRAMMING LANGUAGE:
 Python (3.9)
